@@ -84,3 +84,4 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+data/processed/cleaned_retail_data.csv
