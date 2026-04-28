@@ -6,6 +6,7 @@
 | Field | Details |
 |---|---|
 | **Project Title** | Online Retail Sales Analytics |
+| **Team Name** | Phantom |
 | **Sector** | Retail & E-commerce |
 | **Team ID** | _Fill in_ |
 | **Section** | _Fill in_ |
