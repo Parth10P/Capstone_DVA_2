@@ -106,7 +106,6 @@ Links in [`tableau/dashboard_links.md`](tableau/dashboard_links.md)
 ```
 Capstone_DVA_2/
 ├── README.md
-├── requirements.txt
 ├── data/
 │   ├── raw/                  # original unedited dataset
 │   └── processed/            # cleaned output + tableau CSVs
@@ -133,13 +132,15 @@ Capstone_DVA_2/
 
 ## Contribution Matrix
 
-| Member | Dataset | ETL | EDA | Stats | Tableau | Report | PPT |
-|---|---|---|---|---|---|---|---|
-| _Member 1_ | Owner | Support | Support | Support | Support | Support | Support |
-| _Member 2_ | Support | Owner | Support | Support | Support | Support | Support |
-| _Member 3_ | Support | Support | Owner | Support | Support | Support | Support |
-| _Member 4_ | Support | Support | Support | Owner | Support | Support | Support |
-| _Member 5_ | Support | Support | Support | Support | Owner | Owner | Owner |
+| Member | Dataset & Sourcing | ETL & Cleaning | EDA | Statistical Analysis | Tableau Dashboard | Report & PPT |
+|---|---|---|---|---|---|---|
+| _Member 1_ | ✅ Primary | ✅ Primary | Reviewed | Reviewed | Supported | Reviewed |
+| _Member 2_ | Reviewed | ✅ Primary | ✅ Primary | Supported | Reviewed | Reviewed |
+| _Member 3_ | Supported | Reviewed | ✅ Primary | ✅ Primary | Reviewed | Reviewed |
+| _Member 4_ | Reviewed | Supported | Reviewed | ✅ Primary | ✅ Primary | Supported |
+| _Member 5_ | Supported | Reviewed | Reviewed | Supported | Supported | ✅ Primary |
+
+_All members contributed to understanding the dataset, reviewing notebook outputs, and preparing for viva. Commit history on GitHub reflects individual contributions._
 
 ---
 
