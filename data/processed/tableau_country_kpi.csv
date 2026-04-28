@@ -1,0 +1,39 @@
+Country,IsUK,Revenue,Orders,Customers,AvgOrderValue
+United Kingdom,UK,8737729.593,17904,3917,488.03
+Netherlands,International,283889.34,93,9,3052.57
+EIRE,International,276090.86,284,4,972.15
+Germany,International,205381.15,443,94,463.61
+France,International,184679.0,383,88,482.19
+Australia,International,138103.81,56,9,2466.14
+Spain,International,55706.56,88,30,633.03
+Switzerland,International,53065.6,50,22,1061.31
+Japan,International,37416.37,19,8,1969.28
+Belgium,International,36927.34,98,25,376.81
+Sweden,International,36828.83,34,8,1083.2
+Norway,International,32454.64,32,10,1014.21
+Portugal,International,26951.11,50,20,539.02
+Channel Islands,International,20147.54,25,9,805.9
+Finland,International,18344.88,40,12,458.62
+Denmark,International,18211.34,18,9,1011.74
+Italy,International,15820.24,35,14,452.01
+Cyprus,International,13167.16,14,8,940.51
+Hong Kong,International,9744.19,7,1,1392.03
+Singapore,International,9120.39,4,1,2280.1
+Austria,International,8742.68,17,11,514.28
+Israel,International,8129.41,8,4,1016.18
+Poland,International,6974.65,19,6,367.09
+Unspecified,International,4740.94,13,5,364.69
+Greece,International,4425.52,5,4,885.1
+Iceland,International,4310.0,7,1,615.71
+USA,International,3580.39,5,4,716.08
+Canada,International,3115.44,5,4,623.09
+Malta,International,2070.59,5,2,414.12
+United Arab Emirates,International,1864.78,2,2,932.39
+Lebanon,International,1693.88,1,1,1693.88
+Lithuania,International,1661.06,4,1,415.26
+European Community,International,1159.25,3,1,386.42
+Brazil,International,1143.6,1,1,1143.6
+RSA,International,1002.3100000000001,1,1,1002.31
+Czech Republic,International,786.74,2,1,393.37
+Bahrain,International,754.14,3,3,251.38
+Saudi Arabia,International,145.92,1,1,145.92

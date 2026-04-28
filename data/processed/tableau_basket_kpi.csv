@@ -1,0 +1,4 @@
+BasketSize,Orders,Revenue,AvgOrderValue
+Large (> £200),13042,1110451.24,85.14
+Medium (£50-£200),5185,130925.09,25.25
+Small (< £50),1552,19408.02,12.51
