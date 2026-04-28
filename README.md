@@ -15,11 +15,11 @@
 
 | Role | Name | GitHub Username |
 |---|---|---|
-| Project Lead | _Name_ | `handle` |
-| Data Lead | _Name_ | `handle` |
-| ETL Lead | _Name_ | `handle` |
-| Analysis Lead | _Name_ | `handle` |
-| Visualization Lead | _Name_ | `handle` |
+| Project Lead & Tableau | Parth Patel | `Parth10P` |
+| Data Sourcing Lead | Harikrushn Patel | `harikrushnpatel` |
+| ETL & Cleaning Lead | Khush Chaudhari | `handle` |
+| EDA Lead | AN Pavan Sai | `handle` |
+| Statistical Analysis Lead | Aryaman Jyoti | `handle` |
 
 ---
 
@@ -134,11 +134,11 @@ Capstone_DVA_2/
 
 | Member | Dataset & Sourcing | ETL & Cleaning | EDA | Statistical Analysis | Tableau Dashboard | Report & PPT |
 |---|---|---|---|---|---|---|
-| _Member 1_ | ✅ Primary | ✅ Primary | Reviewed | Reviewed | Supported | Reviewed |
-| _Member 2_ | Reviewed | ✅ Primary | ✅ Primary | Supported | Reviewed | Reviewed |
-| _Member 3_ | Supported | Reviewed | ✅ Primary | ✅ Primary | Reviewed | Reviewed |
-| _Member 4_ | Reviewed | Supported | Reviewed | ✅ Primary | ✅ Primary | Supported |
-| _Member 5_ | Supported | Reviewed | Reviewed | Supported | Supported | ✅ Primary |
+| Harikrushn Patel | ✅ Primary | Supported | Reviewed | Reviewed | Reviewed | Supported |
+| Khush Chaudhari | Supported | ✅ Primary | Supported | Reviewed | Reviewed | Reviewed |
+| AN Pavan Sai | Reviewed | Supported | ✅ Primary | Supported | Reviewed | Reviewed |
+| Aryaman Jyoti | Reviewed | Reviewed | Supported | ✅ Primary | Supported | Reviewed |
+| Parth Patel | Reviewed | Reviewed | Reviewed | Supported | ✅ Primary | ✅ Primary |
 
 _All members contributed to understanding the dataset, reviewing notebook outputs, and preparing for viva. Commit history on GitHub reflects individual contributions._
 
