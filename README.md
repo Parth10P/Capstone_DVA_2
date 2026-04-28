@@ -131,15 +131,15 @@ Capstone_DVA_2/
 
 ---
 
-## Team Contributions
+## Contribution Matrix
 
-| Member | Role |
-|---|---|
-| Harikrushn Patel | Data Sourcing & Dataset Preparation |
-| Khush Chaudhari | ETL Pipeline & Data Cleaning |
-| AN Pavan Sai | Exploratory Data Analysis |
-| Aryaman Jyoti | Statistical Analysis & KPI Computation |
-| Parth Patel | Tableau Dashboard & Final Report |
+| Member | Dataset & Sourcing | ETL & Cleaning | EDA | Statistical Analysis | Tableau Dashboard | Report & PPT |
+|---|---|---|---|---|---|---|
+| Harikrushn Patel | Owner | Support | Support | Support | Support | Support |
+| Khush Chaudhari | Support | Owner | Support | Support | Support | Support |
+| AN Pavan Sai | Support | Support | Owner | Support | Support | Support |
+| Aryaman Jyoti | Support | Support | Support | Owner | Support | Support |
+| Parth Patel | Support | Support | Support | Support | Owner | Owner |
 
 ---
 
