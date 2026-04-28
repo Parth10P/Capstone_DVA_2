@@ -130,17 +130,15 @@ Capstone_DVA_2/
 
 ---
 
-## Contribution Matrix
+## Team Contributions
 
-| Member | Dataset & Sourcing | ETL & Cleaning | EDA | Statistical Analysis | Tableau Dashboard | Report & PPT |
-|---|---|---|---|---|---|---|
-| Harikrushn Patel | ✅ Primary | Supported | Reviewed | Reviewed | Reviewed | Supported |
-| Khush Chaudhari | Supported | ✅ Primary | Supported | Reviewed | Reviewed | Reviewed |
-| AN Pavan Sai | Reviewed | Supported | ✅ Primary | Supported | Reviewed | Reviewed |
-| Aryaman Jyoti | Reviewed | Reviewed | Supported | ✅ Primary | Supported | Reviewed |
-| Parth Patel | Reviewed | Reviewed | Reviewed | Supported | ✅ Primary | ✅ Primary |
-
-_All members contributed to understanding the dataset, reviewing notebook outputs, and preparing for viva. Commit history on GitHub reflects individual contributions._
+| Member | Role |
+|---|---|
+| Harikrushn Patel | Data Sourcing & Dataset Preparation |
+| Khush Chaudhari | ETL Pipeline & Data Cleaning |
+| AN Pavan Sai | Exploratory Data Analysis |
+| Aryaman Jyoti | Statistical Analysis & KPI Computation |
+| Parth Patel | Tableau Dashboard & Final Report |
 
 ---
 
